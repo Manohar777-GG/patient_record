@@ -1,0 +1,9 @@
+patient_id,name,dob,department,billing_amount
+P001,John Smith,1985-05-20,Cardiology,5500.75
+P002,Jane Doe,1992-11-30,Neurology,
+P003,Peter Jones,1978-01-15,Cardiology,12000.00
+P004,Mary Johnson,2001-07-22,Oncology,7500.50
+P005,David Williams,1965-03-12,Neurology,4250.00
+P006,Susan Brown,1988-09-05,Oncology,
+P007,Michael Davis,1995-02-28,Cardiology,6800.25
+P008,Linda Miller,1971-12-10,Neurology,3200.00
