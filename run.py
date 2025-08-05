@@ -23,7 +23,7 @@ config = {
 
     # --- IMPORTANT: UPDATE THIS WITH YOUR CORRECT MONGODB ATLAS CONNECTION STRING ---
     # The format is: "mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@your_cluster..."
-    'mongo_db_uri': "mongodb+srv://man123:manoj621@cluster0.dxrfdac.mongodb.net/?retryWrites=true&w=majority",
+    'mongo_db_uri': "mongodb+srv://mastermr617:master6004@cluster0.kvvxgkx.mongodb.net/?retryWrites=true&w=majority",
 
     # Data Lake (raw data) MongoDB configuration
     'lake_db_name': "healthcare_lake_db",
@@ -186,4 +186,5 @@ def main():
     print("\nETL process for healthcare data completed successfully!")
 
 if __name__ == "__main__":
+
     main()
